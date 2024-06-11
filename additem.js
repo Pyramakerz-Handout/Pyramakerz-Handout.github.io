@@ -1,6 +1,7 @@
 // Array containing gallery items data
 const galleryItems = [
     {imgSrc: "gallery-1",title: "Roblox",link: "roblox"},
+    {imgSrc: "gallery-1",title: "Roblox 1 English",link: "roblox_en"},
     {imgSrc: "gallery-2",title: "Robotics",link: "robotics"},
     {imgSrc: "gallery-3",title: "AI",link: "AI"},
     {imgSrc: "gallery-4",title: "APP Inventor",link: "APP_inventor"},
