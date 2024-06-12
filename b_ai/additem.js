@@ -1,10 +1,7 @@
 
-  // Function to create gallery item HTML
-  const galleryItems = [
-    "1",
-    "2"
-   ];
-   
+var numAr = 2 ;
+var numEn = 0 ;
+
    // Function to create gallery item HTML
    function createGalleryItem(item) {
      return `
@@ -21,11 +18,20 @@
    }
   
   // Function to render gallery items
+
   function renderGalleryItems() {
     const galleryContainer = document.getElementById('gallery-container');
-    galleryItems.forEach(item => {
-      galleryContainer.innerHTML += createGalleryItem(item);
-    });
+    var min = Math.min(numAr , numEn);
+    
+    for (let i = 1; i <= min; i++) {
+      galleryContainer.innerHTML += createGalleryItem(i.toString());
+      galleryContainer.innerHTML += createGalleryItem(i.toString() + "_en");
+    }
+
+    diff = Math.abs(numAr - numEn);
+    for (let i = min+1 ; i <= diff + min; i++) {
+      galleryContainer.innerHTML += createGalleryItem( numAr >  numEn ? i.toString() : i.toString() + "_en");
+    }
   }
   
   // Call the function to render gallery items
