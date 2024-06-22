@@ -1,4 +1,4 @@
-var numAr = 2 ;
+var numAr = 4 ;
 var numEn = 2 ;
  
  // Function to create gallery item HTML
