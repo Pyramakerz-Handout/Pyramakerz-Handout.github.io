@@ -1,0 +1,2147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="28"><page Index="1"><![CDATA[Course
+                                                                       C      o      u      r   s     e
+
+
+
+
+
+
+
+                                                                                                     :
+
+                                                                                                     :
+                                                                                                        2
+
+                                                                                          P
+                                                                                          Part  2
+                                                                                             a
+                                                                                                 t
+                                                                                                r]]></page><page Index="2"><![CDATA[Welcome back, Game designers!
+
+
+                 Are you ready to take a new step
+
+
+                 into the world of game  creation
+
+
+
+
+
+
+            Do you remember what we do here? Yes, we use Roblox Studio to
+
+
+            make the games ourselves. This program helps us create and
+
+
+
+            modify the game world in a very easy and simple way, as we saw
+
+
+            last time
+
+
+
+            Now, let's learn more about how to build more difficult things.
+
+
+            Let's start building our first game today!
+
+
+
+
+
+
+                                                                                    Let’s start working
+
+
+
+                     Open Roblox Studio.
+
+
+                     Choose the "Baseplate" template to start creating
+
+
+             Note: Baseplate is an empty world that we can create whatever
+
+
+             we want inside, so we'll select it to start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          2]]></page><page Index="3"><![CDATA[Now your world will open with you and we will be ready to start
+
+
+             building our first world. Let's start creating !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         "Can you remember what shows up in this  workspace?"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          3]]></page><page Index="4"><![CDATA[We explained last time that the workspace in Roblox consists of 5
+
+
+             menus that we will constantly learn. Now, type the name of each
+
+
+             list.
+
+                                                                                                        1
+
+
+
+                                                                                                       2
+
+
+
+
+                                                                                                       3
+
+
+                                                                                                       4
+
+
+
+
+                                                                                                       5
+
+
+
+
+             "If  you  don't  remember,  quickly  check  the  previous  lecture,  as
+
+
+             we'll use it today."
+
+
+
+
+
+
+
+
+                                                                                    let’s start building
+
+
+
+
+
+             Any  structure  consists  of  main  components,  and  when
+
+
+
+             assembled, we can build any shape we want. These components
+
+
+             are:
+
+
+                     Block
+
+
+                     sphere
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          4]]></page><page Index="5"><![CDATA[cylinder
+
+
+                     wedge
+
+
+
+
+
+
+
+
+
+
+
+             We  can  easily  find  those  components  in  Roblox  to  draw  them
+
+
+             within the Model menu in the Toolbox.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       Look inside Parts, you will find all the parts we
+
+
+                                       talked about. You can click on the item you
+
+
+                                       want and move it into the workspace to start
+
+
+                                       building
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                              Now  that  we've  placed  some
+
+
+                                                              components, we want to adjust
+
+
+                                                              them  to  create  more  complex
+
+
+                                                              shapes.
+
+
+
+
+
+
+
+
+                                                                                                          5]]></page><page Index="6"><![CDATA[Inside the Model menu, there are several options to control and
+
+
+             modify the parts. These options are:
+
+
+
+
+
+
+                                                Move: Move parts to any desired location
+
+
+
+
+
+
+                                                           Scale: Change the size of the parts
+
+
+
+
+
+
+
+                                             Rotate: Rotate the parts at different angles
+
+
+
+
+
+
+             Using these tools helps us build and modify parts easily, enabling
+
+
+             us to create complex and creative shapes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          6]]></page><page Index="7"><![CDATA[MOVE:
+
+
+             This  allows  us  to  change  the  position  of  objects  in  your
+
+
+             workspace.
+
+
+                     There are 6 arrows extending from the part, Indicating 6
+
+
+                     directions of movement.
+
+
+
+                     Drag the arrows to move the part in the indicated direction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             SCALE:
+
+
+             This tool allows us to adjust the size of blocks and shapes.
+
+
+                     When you click on it, 6 circles appear around the part.
+
+
+                     Click and drag a circle with the left mouse button to resize
+
+
+
+                     the part.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          7]]></page><page Index="8"><![CDATA[Rotate:
+
+
+                     This  tool  allows  us  to  rotate  objects,  giving  them  a  new
+
+
+                     direction to enhance our designs.
+
+
+                     Three circles will appear around the part. Drag one of them
+
+
+
+                     to .rotate the part.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                  You can also modify the steps from here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          8]]></page><page Index="9"><![CDATA[If  you  place  a  part  by  mistake  and
+
+
+                                                          want to delete it
+
+
+                                                            you  can  simply  remove  unwanted
+
+                                                          parts by selecting them and pressing
+
+
+                                                          the delete button
+
+
+                                                           Alternatively, you can right-click on
+
+                                                          the  item  and  choose  the  delete
+
+
+                                                          command
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              It's important for you to gain experience using each tool, so give
+
+
+              them a try yourself.
+
+
+
+
+              Shortcuts:
+
+
+                      You can move parts by grabbing them from the centre, and
+
+
+
+                      in this case, the Z position will automatically adjust to the
+
+
+                      top of the ground.
+
+
+                       If you want to zoom in on a specific bloc k, select it
+
+
+                      and click "F"
+
+
+                                                                                                         9]]></page><page Index="10"><![CDATA[Property Adjustment:
+
+
+              Now it's time to adjust properties such as color, material, and
+
+
+              some physical characteristics of the placed parts
+
+
+
+
+
+
+                                                                  All you need to do is choose
+
+
+                                                                  the  item  you  want  by
+
+
+
+                                                                  making  sure  the  "Select"
+
+
+                                                                  command is chosen.
+
+
+
+
+
+
+              Then click on the item you want. You will see the item's properties
+
+
+              appear, and you can start changing them.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          10]]></page><page Index="11"><![CDATA[Let's explore some of the properties we can modify:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           1. Brick Color:
+
+
+           To change the color of the part, find the "Brick Color" property in
+
+
+           the properties window
+
+
+           Choose the color you want from the available list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          11]]></page><page Index="12"><![CDATA[2.Color:
+
+
+             To change the color using the "Color" property, which will give
+
+
+             you more options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3. Cast Shadow:
+
+
+            Choose whether the item has a shadow by enabling or disabling
+
+
+            the property
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          12]]></page><page Index="13"><![CDATA[4.Material:
+
+
+              .Change the item's material to change its appearance
+
+
+             Choose from options like plastic, wood, or stone to give items a
+
+
+             unique and realistic look. Enjoy experimenting with these options
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Transparency:
+
+                To change the transparency of the item, adjust the transparency
+
+
+                value between 0 (fully opaque) and 1 (fully transparent) using the
+
+                scrollbar or by manually entering the value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          13]]></page><page Index="14"><![CDATA[Anchored:
+
+
+                                                  And here's the most important
+
+
+                                                  property! In Roblox, objects are affected
+
+
+                                                  by physics like gravity. Choosing
+
+
+                                                  "Anchored" makes them unaffected
+
+
+                                                  and remain fixed in place under all
+
+
+                                                  circumstances
+
+
+
+
+
+
+             You  can  lift  an  object  upward  and  test  the  game  with  the
+
+
+             "Anchored" property on and off to see how it behaves differently.
+
+
+             Notice how the object stays still when the property is on, and how
+
+
+             it falls and responds to gravity when it's off.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          14]]></page><page Index="15"><![CDATA[Now let's try to create more advanced parts using these basic
+
+
+             shapes! For example, let's build a tree like this:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Let's take a more simple look at the tree:
+
+
+             Notice of how the tree is built from a tall brown cylinder with a
+
+
+             large green sphere atop it that is decorated with smaller green
+
+
+             spheres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          15]]></page><page Index="16"><![CDATA[Now, simply follow these steps:
+
+
+             1.To start, drag the cylinder shape from the panel and position it
+
+
+             appropriately.
+
+
+             2.Resize it to match the tree trunk's shape.
+
+
+             3. Choose the sphere shape from the parts and position it on top of
+
+
+             the cylinder.
+
+
+
+             4.Add small spheres around the large sphere to represent leaves.
+
+
+             5.Make sure to adjust the properties of the cylinder, large sphere,
+
+
+             and small spheres using the properties window.
+
+
+             6.Remember to activate the "Anchored" property for all parts to
+
+
+             keep the tree stable and prevent it from falling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          16]]></page><page Index="17"><![CDATA[Now let's build our first game!
+
+
+
+
+              In this game, you need to jump over obstacles to reach the finish
+
+
+              final point without harm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            A  quick  look  at  the  game  reveals  it's  composed  of  blocks  and
+
+
+            shapes with adjusted properties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          17]]></page><page Index="18"><![CDATA[Steps to build the game:
+
+                                                  1.Let's place the first part in the game, which is
+
+
+                                                  a simple block with its color and material
+
+                                                  changed
+
+
+                                                         Note: Make sure to adjust the height of
+
+
+                                                         the part to be suitable for jumping
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             2.  Repeat  the  same  step  twice  to  create
+
+             additional obstacles .
+
+                    You can either place new blocks or
+
+                    use a simpler method, such as using
+                    the Ctrl+D shortcut to duplicate the
+
+                    shape and then adjust its position
+
+                    and size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          18]]></page><page Index="19"><![CDATA[Now let's try what we've achieved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                Now  it's  time  for  the  flying
+
+
+                                                                obstacles, which consist of 4
+
+                                                                blocks  raised  upwards  with
+
+                                                                their properties modified.
+
+
+                                                                        Don't forget to set them
+
+                                                                        as Anchored to prevent
+
+                                                                        them from falling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          19]]></page><page Index="20"><![CDATA[Now  repeat  the  process  using  the  shortcut  Ctrl+D  to  create  3
+
+
+             more blocks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Now, place the large part, which is
+
+
+
+             just a block, and change its color and
+
+
+             material.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          20]]></page><page Index="21"><![CDATA[Now, as this part is quite elevated,
+
+
+                                                        let's create an ascending pathway
+
+
+                                                        by placing a wedge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         Now let's try what we've achieved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          21]]></page><page Index="22"><![CDATA[Now,  how  about  adding  some
+
+
+                                                                  fun by including some balls for
+
+
+                                                                  the  player  to  play  with  while
+
+
+                                                                  running?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Now,  let's  build  this  unusual  shape.  Don't
+
+
+
+         worry about its appearance, as it's simply
+
+
+         two  cylinders  of  different  sizes  merged
+
+
+         together.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          22]]></page><page Index="23"><![CDATA[Place the last piece now, which is the final block. I'm sure that building it will be
+
+
+     easy for you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           To this point, this is the result.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          23]]></page><page Index="24"><![CDATA[Toolbox:
+
+
+       Now we've reached this point and successfully built all of this
+
+
+       But what about placing a bridge between the obstacles?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Building  the  bridge  might  seem  simple,  but  it  does  take  time.
+
+
+             That's  where  Roblox's  Toolbox  becomes  useful.  It's  like  magic!
+
+
+             Through it, we can find pre-made objects ready to use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          24]]></page><page Index="25"><![CDATA[Using the Toolbox to add a bridge:
+
+
+                                                           1. Open  the  Toolbox:  Make  sure  you
+
+
+                                                             have  the  Toolbox  open.  If  it's  not
+
+                                                             open, you can open it from the View
+
+
+                                                             menu and selecting Toolbox.
+
+
+                                                          2.  Search for a bridge:
+
+
+                                                             Type “Bridge” in the search bar and
+
+
+                                                             press Enter.
+
+
+                                                          3. Select the bridge:
+
+
+                                                             Drag  the  bridge  and  place  it  in  a
+
+
+                                                             suitable  location  between  the
+
+
+                                                             obstacles  in  the  game  path.in  the
+
+
+                                                             game path.
+
+
+                                                          4. Adjust the bridge:
+
+
+           Use editing tools (such as moving, rotating, and scaling) to adjust the
+
+
+           bridge to fit the game design. Ensure to modify the properties of the
+
+
+           bridge and make it Anchored to keep it stable in its place.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          25]]></page><page Index="26"><![CDATA[To change the sky:
+
+
+                                                                 simply search for "Sky" in the Tool
+
+
+                                                                 Box and drag the one you prefer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                    Now, here is the final result:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                         You  can  download  it  to  try  it  out
+
+
+                                                         and see it from here.
+
+
+
+                                                                                                          26]]></page><page Index="27"><![CDATA[Let's play!
+
+
+
+           Game: Dream Pet Connect
+
+
+           Connect the same animals in this Dream Pet Connect game. The
+
+           connection path cannot change directions more than twice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          27]]></page><page Index="28"><![CDATA[For STEAM
+
+                      Education Solutions
+
+
+
+
+
+                                                                                            Course
+                                                                                            C o  u  r s e
+
+                                                                                                      t
+                                                                                                     r
+                                                                                                    a
+                                                                                                        2
+
+
+                                                                                                   P
+                                                                                                   Part  2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                        Alexandria:
+                                                                        Elwezarah, 509 Abu Qir St. 3rd floor
+                 0122 001 6331
+                                                                        Cairo:
+                 info@pyramakerz.com                                    40 Ahmed Fakhry St. Nasr City]]></page></pages></Search>
