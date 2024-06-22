@@ -4,7 +4,8 @@ const galleryItems = [
     {imgSrc: "gallery-2",title: "Robotics",link: "b_robotics"},
     {imgSrc: "gallery-3",title: "AI",link: "b_ai"},
     {imgSrc: "gallery-4",title: "APP Inventor",link: "b_App_inventor"},
-    {imgSrc: "gallery-5",title: "Programming universe",link: "b_programming_universe"},
+    {imgSrc: "gallery-5",title: "Programming universe Seniors",link: "b_programming_universe"},
+    {imgSrc: "gallery-6",title: "Programming universe Junior",link: "b_programming_universe_junior"},
   ];
   
   // Function to create gallery item HTML
@@ -12,7 +13,7 @@ const galleryItems = [
     return `
       <div class="col-xl-3 col-lg-4 col-md-6">
         <div class="gallery-item h-100">
-          <img src="assets/img/gallery/${item.imgSrc}.jpg" class="img-fluid" alt="${item.title}">
+          <img src="assets/gallery/${item.imgSrc}.jpg" class="img-fluid" alt="${item.title}">
           <div class="gallery-links d-flex align-items-center justify-content-center">
             <a href="assets/gallery/${item.imgSrc}.jpg" title="${item.title}" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
             <a href="${item.link}/index.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
