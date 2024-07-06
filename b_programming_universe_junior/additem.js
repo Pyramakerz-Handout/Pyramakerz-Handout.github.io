@@ -1,6 +1,6 @@
 // Array containing gallery items data
 var numAr = 4 ;
-var numEn = 2 ;
+var numEn = 3 ;
   
   // Function to create gallery item HTML
   function createGalleryItem(item) {
