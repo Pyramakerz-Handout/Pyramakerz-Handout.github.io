@@ -1,0 +1,1733 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="24"><page Index="1"><![CDATA[For STEAM
+
+                           Education Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                MOBILE DEVELOBMENT LEVEL 1
+
+                        COURSE]]></page><page Index="2"><![CDATA[Introduction
+
+
+
+
+
+
+
+                 Hello,  our  distinguished  student!
+
+                 Let’s  build  apps  with  MIT App
+
+                 Inventor! Get ready to code and unleash
+
+                 your  creativity!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        This course will teach you mobile app programming
+
+        with  MIT  App  Inventor.  By the  end,  you’ll  be
+        able  to  build  your  own  app,  from understanding
+
+        the  interface  to  turning  your  ideas  into  reality!
+
+
+
+        Are you ready to start our exciting journey?
+
+        Go  ahead  and  unleash  your  creativity  with MIT  App
+
+        Inventor!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              2]]></page><page Index="3"><![CDATA[Mobile apps give us amazing and fun experiences, but
+             have you ever wondered how they are created?
+
+
+
+
+
+
+
+
+
+                                                             There  is  a  special  person
+
+                                                             known as an app programmer
+
+                                                             who works behind the scenes
+
+                                                              !to make these apps a reality
+
+
+
+
+                                                             Mobile  app  developers  are
+
+                                                             like phone wizards. They use
+
+            special tools to design, build, and test mobile applications,
+
+                                .ensuring they work the way we want them to
+
+
+
+
+
+
+
+
+
+
+                    Let’s build mobile apps with MIT App
+
+                    Inventor! It’s a beginner-friendly tool
+
+                    that makes coding fun!
+
+
+
+
+
+
+
+
+
+
+
+         3]]></page><page Index="4"><![CDATA[What is MIT App Inventor?!
+
+
+
+
+
+
+
+                                                         Want to build your own mobile app?
+
+                                                         Forget  complicated code!  MIT  App
+                                                         Inventor  is your  secret  weapon.
+
+                                                         This  beginner-friendly  platform lets
+
+                                                         you  create  awesome  apps  with  just
+                                                         drag-and-drop blocks. It’s like building
+
+                                                         with  virtual  Legos  - easy,  fun,  and
+
+                                                         lets your creativity run wild! Get ready
+                                                         to unlock the  world of mobile  app
+
+                                                         development  with MIT App  Inventor!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                   All you need to do to start creating is
+
+                                                   visit this site
+
+                                                                     And follow the steps in this
+                                                                     video.
+
+                                                                     To create an account. This
+
+                                                                     will enable  you  to  start
+                                                                     working  on  your  projects
+
+                                                                     using  MIT App  Inventor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              4]]></page><page Index="5"><![CDATA[Create your first project
+
+
+
+
+
+
+
+             1. This is the MIT App Inventor home screen, and it’s your
+
+             gateway to start building your own apps. Let me explain to
+
+             you some of the main sections you will need:
+
+
+
+
+             • new project: This button allows you to start a new project.
+
+             Once you click on it, you will start creating your new app.
+
+
+
+
+             • Projects: Here, you can find all your previous projects.
+
+             You can open or edit any of these projects.
+
+
+
+
+             2. Just click on new project to start a new project and go to
+
+             the design interface of your new application.
+
+
+
+
+             3. Give the project any name you wish, then click OK to
+
+             continue.
+
+
+                                                                                    Step by step video
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         5]]></page><page Index="6"><![CDATA[Step by step
+                                                                                         with pictures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                Congrats!  You’re  ready  to
+
+
+
+
+                                                                build your own mobile apps
+
+
+                                                                and  turn  your  ideas  into
+
+
+
+
+                                                                reality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              6]]></page><page Index="7"><![CDATA[The program interface
+
+
+
+
+              When you create an app with MIT App Inventor, you will
+
+              use the designer to create the app screen. The designer
+
+              is organized into the following columns:
+
+                    1    The Palette column
+
+
+                    2    The Viewer column
+
+
+
+                    3    The Components column
+
+
+                    4    The Media column
+
+
+                    5    The Properties column
+
+                  Click on the number in the picture for explanation
+
+                                                 The Viewer column
+                                                                                The Components column
+
+                         1
+                                                                                       3
+                                            2 2
+
+
+
+
+
+
+                                                                                                     4
+
+
+
+
+                                                                                       5
+
+
+                The Palette column                                            The Media column  The Properties column
+
+
+
+
+
+
+                        Note:  Lots  of  buttons?  Don’t  panic!  We’ll
+                        guide you step-by-step. Soon you’ll be building
+
+                        awesome stuff in App Inventor.
+
+
+
+
+
+         7]]></page><page Index="8"><![CDATA[Create your first application
+
+
+
+
+
+                                           Let’s make our first app (Hello World App)
+
+                                           Let’s start creating our first application, which will
+
+                                            display a simple text message. Say what you want.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                       Label component
+
+
+
+
+
+
+                                              The Label component displays text on
+
+                                              the application screen. You can create a
+
+                                              tag  component  by dragging it from  the
+
+
+                                              UI section  of  the  panel  and  dropping  it
+
+                                              onto the application screen in the viewer
+
+
+                                              window.
+
+
+
+
+
+
+
+
+
+
+                                                                                                              8]]></page><page Index="9"><![CDATA[Steps to create an app
+
+
+
+         To change text in a tag:
+
+         1. Select the tag in the "Components" column.
+
+
+         2. Edit the "Text" property in the "Properties" column.
+
+         (If the component is not currently selected, just click its name in the
+
+         Components column to select it.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                    Label component color, height and
+
+
+                                                    other styles:
+
+
+
+
+                                                    Display text: Drag a Label component
+
+
+                                                    from User Interface to the viewer window.
+
+
+
+
+
+
+
+
+
+
+         9]]></page><page Index="10"><![CDATA[Screen properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        In MIT App Inventor, you have the flexibility to adjust various screen
+        properties to customize the look of your app. Here are some screen
+
+        properties you can modify:
+
+
+
+        1. Device Type:
+
+        Choose the type of device your app will run on. This setting helps you
+        visualize the layout and design of your app for different screen sizes.
+
+
+
+        2. Title:
+
+        Set the title of your app, which appears at the top of the screen.
+
+
+
+        3. Background Color:
+        Customize the background color of your app screen. Choose from a
+
+        wide range of colors to create the desired visual impact for your
+        application.
+
+
+
+
+        MIT App Inventor lets you customize your app’s look! Here are some
+        adjustable screen properties:
+
+
+
+
+
+
+
+
+                                                                                                             10]]></page><page Index="11"><![CDATA[Delete components
+
+
+
+
+
+          Select the unwanted component and click "Delete" at the bottom of the
+
+
+          "Components" column.
+
+
+
+
+
+
+
+
+
+
+
+
+        Try and run the app
+
+
+
+
+
+                                 •  Download: Get the MIT AI2 Companion app on your
+
+
+
+                                     phone (Play Store or App Store).
+
+
+
+                                 •  Open: Launch the Companion app.
+
+
+
+                                 •  Connect: (Choose one method)
+
+
+
+                                 •  Scan QR Code: In the Companion app, choose “Con-
+
+
+
+                                     nect  with QR” and scan  the  code  displayed  in  App
+
+
+
+                                     Inventor.
+
+
+
+                                 •  IP Address: Enter the IP address shown in App Inven-
+
+
+
+                  MIT AI2            tor (under “Connect”) into the Companion app.
+               Companion
+
+                                 •  Run: Your app should appear on your phone screen!
+
+
+
+
+
+
+        11]]></page><page Index="12"><![CDATA[Try the first app
+
+
+
+
+
+
+          1. Scan the QR Code:
+
+
+
+
+
+
+
+
+          •  Open “Connect with QR” in the MIT AI2 Companion app.
+
+
+
+          •  Point your device camera at the QR code generated by App Inventor.
+
+
+
+          •  Wait for the app to load your program.
+
+
+
+
+
+
+
+
+
+
+
+              Scan QR                                                                         Create QR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             12]]></page><page Index="13"><![CDATA[Button component
+
+
+
+
+
+
+
+
+
+           Add buttons: Drag a button block from User Interface to your app screen
+
+
+
+
+
+
+
+
+           Drag a Button:
+
+           •  They start with “Button1” and generic text.
+
+
+           •  Change both the button’s name and its text to something clear about
+
+               its function.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        13]]></page><page Index="14"><![CDATA[let’s play
+
+
+
+
+
+
+
+
+                  Connect similar animal squares. Choose direct paths. You can
+
+                  only connect free squares without hindrance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             14]]></page><page Index="15"><![CDATA[let’s play
+
+
+
+
+
+
+
+
+                            Find hidden objects on the farm. Click to find it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        15]]></page><page Index="16"><![CDATA[Programming using the button
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Change button text: Select the button and edit its "Text" property in the
+
+           "Properties" column.
+
+
+           More customization: You can also adjust properties like colour and size.
+
+
+
+
+                                                                       Programming using blocks
+
+
+
+                                                              •  Now, let’s talk about giving
+
+                                                                 our  app  some  interactivity!
+
+
+                                                                 We’ve added a button, and
+
+                                                                 changed  their  appearance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             16]]></page><page Index="17"><![CDATA[Button press = no magic: Your app needs programming to react to
+
+             events like button clicks.
+
+          •  Event-driven programming: The app waits for something to happen
+
+
+             (like a tap) and then acts accordingly.
+
+          •  Button press = ringing a bell: It wakes the app up and tells it to follow
+
+             your programming instructions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Steps
+
+
+
+                                                                                Click on Blocks .1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        17]]></page><page Index="18"><![CDATA[Get to know the new interface now:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                             Code editor
+
+
+                                          The code editor appears in its own window,
+
+                                          separate from the designer.
+
+
+            A piece of code is a          The code editor is where you collect pieces of
+            shape that resembles
+            a puzzle piece.               code that perform actions.
+
+
+
+
+
+
+
+                                                             Build  your app  logic!:  Drag  and
+                                                             connect  blocks  and data  pieces  in
+                                                             App Inventor to create your program.
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             18]]></page><page Index="19"><![CDATA[Delete pieces
+
+
+
+
+
+
+                             Delete unwanted blocks: Drag them to the trash icon in
+
+                             the editor’s lower-right corner.
+
+
+
+
+
+                                                                                     Add button function
+
+
+
+
+                                                                   1. Add Button Functionality:Click
+
+
+                                                                   the  button  to  see  its  available
+
+                                                                   pieces.
+
+                                                                   2. Types of blocks :Brown, light
+
+
+                                                                   green, and dark green represent
+
+                                                                   different  blocks  functionalities.
+
+                                                                   3. "When the button clicked" : This
+
+
+                                                                   fires when the button is pressed.
+
+                                                                   4.Drag and drop "When the but-
+
+
+                                                                   ton clicked" from the tray to the
+
+                                                                   workspace.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        19]]></page><page Index="20"><![CDATA[Clicking the button creates an empty space.
+
+                                                 You can connect additional blocks to this
+
+
+                                                 space.
+
+               When the button is clicked, the connected blocks will be executed.
+
+
+
+
+
+
+
+
+
+                                                            To  change the message displayed
+
+                                                            in the label when a button is clicked:
+
+
+
+
+
+                                                            1. Find a block named "Set Label
+
+
+                                                            Text".
+
+                                                            2. Connect this block to the button
+
+                                                            click  event.
+
+
+                                                            3. Set the desired new message
+
+                                                            within the "Set Label Text" block. 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             20]]></page><page Index="21"><![CDATA[Insert widget: Drag and drop it into the workspace.
+
+            2. Set label text: Specify desired value (e.g., “segment”).
+
+
+            3. Complete segment: Connect another segment with its own value
+
+            (e.g., “pyramakerz text”).
+
+
+
+
+
+
+
+
+
+                                                                       1. Choose "Text" block: Select
+
+                                                                       it from the "Parts" column.
+
+                                                                       2. Connect blocks: Link the text
+
+
+                                                                       block to the "Set Label.Text To"
+
+                                                                       slot.
+
+
+                                                                       3. Set text:Type your desired
+
+                                                                       message ("pyramakerz") in the
+
+                                                                       empty space.
+
+
+                                                                       4. Complete programming:
+
+                                                                       Press Enter to finalize.
+
+                                                                       Ready to try!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        21]]></page><page Index="22"><![CDATA[Task
+
+
+
+
+
+
+
+
+
+                                                           Design a screen where
+
+
+
+                                                           each button says hello in
+
+
+                                                           a  different language.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Solution method.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             22]]></page><page Index="23"><![CDATA[let’s play
+
+
+
+
+
+
+
+
+                        Enjoy the Bubble Buster game. Shoot bubbles and
+
+                        make groups of three or more similar bubbles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        23]]></page><page Index="24"><![CDATA[For STEAM
+
+                           Education Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Alexandria:
+                                                                  Elwezarah, 509 Abu Qir St. 3rd floor
+                    0122 001 6331
+                                                                  Cairo:
+                    info@pyramakerz.com                           40 Ahmed Fakhry St. Nasr City              24]]></page></pages></Search>

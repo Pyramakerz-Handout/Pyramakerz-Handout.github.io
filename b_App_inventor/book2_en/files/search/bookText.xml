@@ -1,0 +1,1444 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="22"><page Index="1"><![CDATA[For STEAM
+
+                           Education Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                MOBILE DEVELOBMENT LEVEL 2
+
+                        COURSE]]></page><page Index="2"><![CDATA[Introduction
+
+
+
+
+
+
+
+
+                    Welcome back, future programmer!
+
+                    Level up your mobile app building skills!
+
+                    Today, we’ll dive into adding images and
+
+                    sounds to your App Inventor apps for an
+
+                    extra dose of fun.
+
+
+
+
+
+
+       To create a new project named “Proj 2” in MIT App Inventor, follow
+
+       the provided link.
+
+
+
+
+
+
+                                                          Now we have reached this stage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              2]]></page><page Index="3"><![CDATA[Do you remember any of this? (If you’r
+
+          having trouble, see the previous lecture first.)
+
+
+
+
+         Challenge:
+
+         1. Change Screen Title to “Animal App”.
+
+         2. Add 3 buttons to the screen to get a result like this:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                               By default, elements  appear  at the  top
+
+                                               left, but you can use screen alignment to
+
+                                               move them anywhere on the screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         3]]></page><page Index="4"><![CDATA[Screen Format: (Alignment):
+
+
+              Now we can  change  the  screen  format through  screen
+
+              properties. There you will find settings for formatting items
+
+              horizontally and vertically.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       C (Horizontal alignment):
+
+
+       While  elements  usually  appear  left
+
+
+       aligned by default, you can use horizontal
+
+
+       alignment to control their position. This lets
+
+
+       you center elements for a balanced look or
+
+
+       position them to the right for
+
+
+       specific layouts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              4]]></page><page Index="5"><![CDATA[Vertical Alignment:
+
+
+
+
+
+         By default, elements appear at the top of the screen.
+
+
+
+
+
+
+
+         Use vertical alignment to:
+
+
+         •  Center elements for a balanced layout.
+
+
+         •  Position them at the bottom for specific designs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         5]]></page><page Index="6"><![CDATA[Question to ponder:
+
+
+                                                 How many possible formats can be set?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Now let’s try:
+
+
+            Vertical Alignment: TOP
+
+            Horizontal Alignment: Left
+
+
+
+
+            When the vertical format is set to Top and the horizontal
+
+            format is set to Left, items will appear in the upper-left corner
+
+            of the screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              6]]></page><page Index="7"><![CDATA[Vertical Alignment: Bottom
+
+
+         Horizontal Alignment: Center
+
+
+         When the vertical format is set to Bottom and the horizontal
+
+
+         format is set to Center, items will appear at the bottom of the
+
+
+         screen, centered in the middle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         7]]></page><page Index="8"><![CDATA[•  Changing              the        horizontal           and
+
+
+
+                                                       vertical alignment settings dynamically
+
+
+                                                       affects  how  your  app’s  elements
+
+
+                                                       appear on the screen.
+
+
+                                                   •  This  powerful  combination  allows
+
+
+                                                       you  to  precisely  position  buttons,
+
+
+                                                       text  boxes,  and  other  components,
+
+
+                                                       creating  a visually  balanced  and
+
+
+                                                       appealing app interface.
+
+
+                                                   •  Don’t  be  afraid  to  experiment
+
+
+
+                                                       with  these  settings  in  the  MIT App
+
+
+                                                       Inventor  app.  You’ll  be  amazed  at
+
+
+                                                       how  a  simple  tweak  can  transform
+
+
+                                                       your  app’s  design!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                              8]]></page><page Index="9"><![CDATA[Add photos:
+
+
+         Now, let’s add some photos to our app to make it modern
+
+
+         and beautiful.
+
+
+         Change app wallpaper:
+
+
+         Choose Screen from Components:
+
+
+         •  In the MIT App Inventor window, go to the Components
+
+
+             window and choose Screen.
+
+
+
+         •   Find Background Image and click on it:
+
+
+         •  In the Properties window on the right, find a property
+
+
+         •   Background Image and click on it.
+
+
+         •  A pop-up window will appear, if you have previously up-
+
+
+             loaded images in the app, you will find them here and
+
+
+             you can use them again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         9]]></page><page Index="10"><![CDATA[Upload a New Photo:
+
+
+            1. Click “Choose File”.
+
+
+            2. Select the desired
+
+
+            image from your device.
+
+
+            3. Click “OK” to upload
+
+
+            the image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           By following these steps, you can easily change the back-
+
+
+           ground of the app and add new images to make it more at-
+
+
+           tractive and professional.
+
+
+
+
+
+
+
+
+                                                                You can use this image
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             10]]></page><page Index="11"><![CDATA[And now the background has
+
+
+
+                                                          been successfully changed
+
+
+                                                          !note:
+
+
+             The  image  uploaded  has  been  saved  within  the  Media
+
+
+             Column, allowing for future use or code block integration.
+
+
+             To upload images via the Media Column, click the Upload
+
+
+             File button and select desired files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        11]]></page><page Index="12"><![CDATA[•  Upload the follow-
+
+
+                                                                            ing photos:
+
+
+                                                                         •  The first picture
+
+
+                                                                         •  second picture
+
+
+                                                                         •  The third picture
+
+
+
+
+
+
+
+
+          How to use images:
+
+
+          You can now easily change any image by
+
+
+          accessing all your uploaded images.
+
+
+
+
+
+
+
+          By  following  these  steps,  you  can  efficiently  and  effectively
+
+
+          organize all images for future use in your project.
+
+
+
+          Change the background of the buttons:
+
+
+          Now, let’s change the background of the buttons to give the
+
+
+          app a modern and beautiful look.
+
+
+          Select button:
+
+
+          1. Click on the button whose background you want to
+
+
+
+          change.
+
+
+          2. Choose the image:
+
+
+          •  In the button properties, find Image.
+
+
+                                                                                                             12]]></page><page Index="13"><![CDATA[Choosing an Image:
+
+
+
+
+
+
+          1. Click “Choose File” to upload a new image.
+
+
+          (For new images)
+
+
+          2. Select the desired image from your device.
+
+
+          3. Click “OK” to upload the new image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        13]]></page><page Index="14"><![CDATA[Adjust image size:
+
+
+                                                    The image size may be too large
+
+
+                                                    after changing the background, re-
+
+
+
+                                                    quiring adjustment to fit the button
+
+
+                                                    size.
+
+
+                                                    1. Change width and height:
+
+
+                                                    •  From the button settings, find
+
+
+                                                        Width and Height.
+
+
+                                                    •  Adjust them in pixels to the size
+
+
+                                                        you want.
+
+
+
+
+
+
+
+                                                                                    •  Example:
+
+
+
+                                                                                    •  Width: 100px
+
+
+                                                                                    •  Height: 50px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             14]]></page><page Index="15"><![CDATA[1. Change button images:
+
+
+                                                   •  Select each button in sequence
+
+
+                                                       and change its image as shown
+
+
+                                                       in the attached images.
+
+
+                                                   2. Adjust button text:
+
+
+                                                   •  Adjust the text of each button ac-
+
+
+
+                                                       cording to the image, as shown
+
+
+                                                       in the attached images.
+
+
+                                                   3. Adjust image size:
+
+
+                                                   •  Adjust the size of each image to
+
+
+                                                       match the size of the button ac-
+
+
+                                                       cording to the attached image.
+
+        15]]></page><page Index="16"><![CDATA[Audio:
+
+
+                                                   Now we want to add sound to our pro-
+
+
+                                                   gram. How about adding a sound to
+
+
+                                                   each button when it is pressed?
+
+
+
+                                                   Raising voices:
+
+
+                                                   We can raise the volume just as we
+
+
+                                                   raised the images in the Media Col-
+
+
+                                                   umn. Click Upload and upload the
+
+
+                                                   sounds you want to add.
+
+
+                                                   •  Add these votes:
+
+
+                                                      Sound 1
+
+
+
+                                                   •  Sound 2
+
+
+                                                   •  Sound 3
+
+
+                                                   Play sounds:
+
+
+                                                   In order to play sound we must add a
+
+
+                                                   SOUND element.
+
+
+                                                   NOTE: Non-Visible Components: Add-
+
+
+                                                   ed images are hidden from the user but
+
+
+                                                   work behind the scenes in your app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             16]]></page><page Index="17"><![CDATA[Now that your app can play sounds, the next
+
+
+              step is integrating them with user interaction
+
+
+              for a more engaging experience.
+
+
+              1. Accessing Blocks:
+
+
+              Navigate to the Blocks screen, the central programming area
+
+
+              for your app.
+
+
+              2. Locating the Sound Element:
+
+
+              Identify the Sound component you previously added within
+
+
+              the Blocks section.
+
+
+              3. Exploring Sound Commands:
+
+
+
+              You’ll discover a new set of commands specifically designed
+
+
+              for controlling the Sound element.
+
+
+              These commands will be your tools for creating
+
+
+              interactive sound
+
+
+              effects          based
+
+
+              on user actions,
+
+
+              such  as  button
+
+
+              presses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        17]]></page><page Index="18"><![CDATA[•  Use blocks to select and play sound:
+
+
+              •  You’ll find a command called call Sound1.Play, which
+
+
+
+                  plays the sound associated with Sound1.
+
+
+
+
+
+
+              •  You’ll also find a command called set Sound1.Source
+
+
+                  to, which sets the audio source associated with Sound1.
+
+
+
+
+
+
+
+
+
+
+              •  First, use the set Sound1.Source to command to select
+
+
+
+                  the sound you want to play.
+
+
+
+
+
+
+              •  Next, use the call Sound1.Play command to play the
+
+
+                  sound.
+
+
+
+              So to play a specific sound the command order is like this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             18]]></page><page Index="19"><![CDATA[To play a sound when a button is pressed, use the When
+
+
+           Button.Click do command to select and play the sound.
+
+
+
+
+
+
+
+
+
+
+
+           1. Add command when Button.Click do:
+
+
+           •  In the Blocks screen, find the button to which you want
+
+
+              to add the command.
+
+
+           •  Drag the When Button1.Click do command (or the name
+
+
+
+              of the button you want) to the work area.
+
+
+           2. Select and play audio within the block when Button.Click
+
+
+              do:
+
+
+           •  Drag and drop the set Sound1.Source to command into
+
+
+              the When Button1.Click do block.
+
+
+           •  Select the audio source inside the set Sound1.Source to
+
+
+              block.
+
+
+           •  Drag and drop the call Sound1.Play command into the
+
+
+              when Button1.Click do command after the set Sound1.
+
+
+
+              Source to block.
+
+
+
+
+
+
+
+
+
+        19]]></page><page Index="20"><![CDATA[Now when you press Button1, the “monkey.wav”
+
+
+                              sound will play immediately.
+
+
+
+
+
+
+                              Now complete the steps for the rest of the buttons
+
+
+                              as follows and try the program:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                             20]]></page><page Index="21"><![CDATA[let’s play
+
+
+
+
+
+
+
+
+                        Enjoy the Bubble Buster game. Shoot bubbles and
+
+                        make groups of three or more similar bubbles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        21]]></page><page Index="22"><![CDATA[For STEAM
+
+                           Education Solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                  Alexandria:
+                                                                  Elwezarah, 509 Abu Qir St. 3rd floor
+                    0122 001 6331
+                                                                  Cairo:
+                    info@pyramakerz.com                           40 Ahmed Fakhry St. Nasr City              22]]></page></pages></Search>

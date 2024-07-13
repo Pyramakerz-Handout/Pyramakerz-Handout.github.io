@@ -9,7 +9,7 @@
  * the HTML markup for a single gallery item.
  */
 var numAr = 2;
-var numEn = 0;
+var numEn = 2;
 
 // Function to create gallery item HTML
 function createGalleryItem(item) {
