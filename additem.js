@@ -8,7 +8,6 @@ const galleryItems = [
     {imgSrc: "gallery-6",title: "Programming universe Junior",link: "b_programming_universe_junior"},
     {imgSrc: "gallery-7",title: "Programming universe Junior",link: "b_web"},
   ];
-  ];
   
   // Function to create gallery item HTML
   function createGalleryItem(item) {
