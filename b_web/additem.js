@@ -16,9 +16,9 @@ function createGalleryItem(item) {
   return `
      <div class="col-xl-3 col-lg-4 col-md-6">
        <div class="gallery-item h-100">
-         <img src="gallery/${item}.jpg" class="img-fluid" alt="APP Inventor ${item.replace("_", " ")}">
+         <img src="gallery/${item}.jpg" class="img-fluid" alt="Web Development ${item.replace("_", " ")}">
          <div class="gallery-links d-flex align-items-center justify-content-center">
-           <a href="gallery/${item}.jpg" title="APP Inventor ${item.replace("_", " ")}" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
+           <a href="gallery/${item}.jpg" title="Web Development ${item.replace("_", " ")}" class="glightbox preview-link"><i class="bi bi-arrows-angle-expand"></i></a>
            <a href="book${item}/index.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
          </div>
        </div>
