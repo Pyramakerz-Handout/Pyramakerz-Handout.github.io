@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Search><pages Count="14"><page Index="1"><![CDATA[]]></page><page Index="2"><![CDATA[Animation Editot:
+
+
+
+
+         The animation editor is a tool that helps us make custom
+
+         animation for characters. Let’s make a demo character (Rig).
+
+
+         A Rig (demo character) is built for this purpose:
+
+
+
+
+           •  From the “AVATAR” tab
+
+           •  select “rig builder”
+           •  choose “my avatar”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           2]]></page><page Index="3"><![CDATA[This shows a rig player on the map.
+
+
+
+
+
+
+           •  Now, open the animation editor (can be found in the
+
+              avatar tab too).
+
+           •  Animation Editor: is a timeline editor to animate your
+
+              character.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           •  Click on the rig you placed on the map.
+
+           •  Give your animation a name & click “Create”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            3]]></page><page Index="4"><![CDATA[The interface has 2 main concepts:
+
+
+
+           •  Animation time: Time of the animation key frames.
+
+           •  Timeline: Place of each key frame throughout the
+
+              timeline.
+
+
+
+
+
+         Key Frame: is like a checkpoint for a part which saves the
+
+         state of the part like its position and rotation.
+
+
+
+
+         The 0:00 in timeline has the initial state of the part.
+
+         Therefore, any new positions should not start from 0:00 but
+
+         later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           4]]></page><page Index="5"><![CDATA[Animate the Character:
+         Let’s make a wave animation for the player so it says hello.
+
+
+
+
+           •  Notice we can select mini-parts of our character.
+
+           •  Select its middle body and rotate it a bit (use the blue
+
+              circle in rotation). Note: Press ALT to disable snapping.
+
+           •  Try previewing the animation through the play button in
+              the animation editor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           •  Imagine a human who waves, we can visualize his hand as
+
+              3 points at different places. We can use this for our rig.
+
+           •  Rotate the corresponding parts to match this human
+
+              model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            5]]></page><page Index="6"><![CDATA[Notice when editing a new part of the body, a key frame is
+         made in the animation editor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           •  You finished the animation. Do you feel its too fast and
+
+              needs to be slowed down?
+
+           •  You can move key frames in the timeline.
+           •  You can also duplicate keyframes using CTRL+C &
+
+              CTRL+V
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           6]]></page><page Index="7"><![CDATA[Time to export the animation to Roblox, so we can use it any-
+         where in our game.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Give it a name and click save.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                            7]]></page><page Index="8"><![CDATA[Copy the animation ID we will use it later.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         We want to trigger the animation. While in-game you can
+
+         press letter “H” to make this character play the animation.
+
+
+
+
+           •  Create a “Local Script” under “StarterPlayer” ->
+              “StarterPlayerScripts”.
+
+           •  We want to press H then the play waves hello.
+
+           •  The following code helps us to do so.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           8]]></page><page Index="9"><![CDATA[•  In line 11, change the animation id (number in the last of
+
+              the line) with your animation id you copied.
+
+
+
+
+
+
+
+           •  Code obtains the character in-game when it joins the
+
+              world
+
+           •  Then, loads the animation inside the script (doesn’t play
+              it).
+
+           •  We create a function to listen for keystrokes and if its the
+
+              letter “H” it plays the animation.
+
+           •  Finally, we connect the UserInputService with our
+
+              function.
+
+
+
+
+           Code can be downloaded from here.
+
+
+
+                                                                                                            9]]></page><page Index="10"><![CDATA[New Animations:
+
+
+
+           •  From the toolbox -> search for a “house” -> place the
+
+              house on the map.
+
+           •  place a cylinder which will act as a button to set the house
+
+              on fire.
+
+           •  Add a script to the cylinder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Set House on Fire:
+
+         In the script you created add the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           10]]></page><page Index="11"><![CDATA[•  Code obtains the button and checks if it’s touched by the
+              player.
+
+           •  Then it loops on the house parts setting each part on fire.
+
+           •  The fire is set by creating a new instance of it and
+
+              appending it to the house.
+
+
+
+
+           Code can be download from here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           11]]></page><page Index="12"><![CDATA[House Explosion:
+
+         Re-edit the script you created and add the following:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           •  Code obtains the button and checks if it’s touched by the
+              player.
+
+           •  Then it loops on the house parts.
+
+           •  For each part, we append the explosion animation and
+
+              remove the anchored property from it, dismantling it from
+
+              the house.
+
+
+
+
+           Code can be downloaded from here.
+
+
+
+
+
+
+
+
+
+
+
+           12]]></page><page Index="13"><![CDATA[Robox is a puzzle platformer game where you control a robot to find the
+         exit door. Help him to escape enemies and traps along the way. Jump, shoot
+
+               the boxes using your teleportation gun, and try to reach the door.
+                                                     Good luck!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                           13]]></page><page Index="14"><![CDATA[]]></page></pages></Search>
