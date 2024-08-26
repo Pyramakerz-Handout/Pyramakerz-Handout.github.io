@@ -1,4 +1,4 @@
-var numAr = 4 ;
+var numAr = 8 ;
 var numEn = 8 ;
 
 
