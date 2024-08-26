@@ -1,5 +1,5 @@
 // Array containing gallery items data
-var numAr = 5 ;
+var numAr = 9 ;
 var numEn = 9 ;
   
   // Function to create gallery item HTML
