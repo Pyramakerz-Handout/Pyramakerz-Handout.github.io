@@ -1,0 +1,679 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="12"><page Index="1"><![CDATA[PYTHON]]></page><page Index="2"><![CDATA[Learning Objective:
+
+
+
+           •  Python Programming.
+
+           •  Computational Thinking.
+
+           •  Creativity & Art.
+
+
+
+
+
+
+
+
+
+
+
+         The Turtle library:
+
+
+
+
+         The Turtle library is a fun and engaging library.
+         It allows users to control a virtual “turtle” that
+
+         moves around the screen, drawing shapes and
+
+         patterns as it goes. With simplecommands,
+
+         students can create everything from basic
+
+         geometric shapes to intricate designs,
+
+         making coding both a creative and interactive
+
+         experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          2]]></page><page Index="3"><![CDATA[How to Use:
+
+
+
+         First we have to import the module into our script file.
+
+
+
+
+
+
+
+
+
+
+         Then we define a turtle on our window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                    Prevents window
+                                                                                       from closing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             3]]></page><page Index="4"><![CDATA[Turtles are green, Let’s change the color of our turtle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Result:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          4]]></page><page Index="5"><![CDATA[Let’s experiment by moving the turtle around.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                •  my_turtle.forward(100)
+
+                      •  Moves turtle forward by 100
+
+                         units.
+                •  my_turtle.left(90)
+
+                      •  Rotates turtle to the left by
+
+                         90 degrees.
+
+                •  my_turtle.right(90)
+
+                      •  Rotates turtle to the right by
+
+                         90 degrees.
+
+
+
+
+
+             5]]></page><page Index="6"><![CDATA[Activity: Let’s make a square.
+
+
+
+         Goal:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Solution:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          6]]></page><page Index="7"><![CDATA[•  We move left after each 100 units to make a corner which
+              results in a square shape.
+
+
+
+
+           •  We can also use loops:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Activity: How about a more challenging shape?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           •  Here we have 8 squares
+              each of its own color.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             7]]></page><page Index="8"><![CDATA[Solution:
+
+
+
+
+                                                                                        List of Colors
+
+
+
+
+
+
+
+
+                                            Define Square
+                                               Function
+
+                                           Loop on the colors and draw a
+                                            square then rotate 45 degrees
+
+
+
+
+
+
+
+
+
+
+
+         Activity: What about Hexagonals.
+
+
+
+
+
+
+
+
+
+
+
+
+           •  This  time we have 8
+
+              hexagonals each of its
+
+              own color.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                          8]]></page><page Index="9"><![CDATA[Solution:
+
+
+
+
+                                                                                        List of Colors
+
+
+
+
+
+
+
+
+                                            Define Hexagonal
+                                                 Function
+
+
+                                           Loop on the colors and draw a
+                                            square then rotate 30 degrees
+
+
+
+
+         Notice we only changed 2 numbers in the whole script and we
+
+         have a totally another shape!
+
+
+
+
+
+
+
+
+
+
+         Circles:
+
+
+           •  You can also draw circles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             9]]></page><page Index="10"><![CDATA[(10*i) is the circle radius
+
+
+
+
+
+
+
+         Running the code, you will see the turtle bgine rotating in
+
+         circles 10 times with each circle bigger than the previous.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                         10]]></page><page Index="11"><![CDATA[]]></page><page Index="12"><![CDATA[PYTHON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                  PYTHON
+
+
+
+
+
+
+
+
+
+
+
+
+                                         ALEXANDRIA:
+                                         ELWEZARAH, 509 ABU QIR ST. 3RD FLOOR          0122 001 6331
+                                         CAIRO:
+                                         40 AHMED FAKHRY ST. NASR CITY                 INFO@PYRAMAKERZ.COM]]></page></pages></Search>
