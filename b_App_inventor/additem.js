@@ -8,8 +8,8 @@
  * The gallery items are created using the `createGalleryItem` function, which generates
  * the HTML markup for a single gallery item.
  */
-var numAr = 7;
-var numEn = 7;
+var numAr = 7 ;
+var numEn = 7 ;
 
 // Function to create gallery item HTML
 function createGalleryItem(item) {
