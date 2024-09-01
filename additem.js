@@ -7,7 +7,7 @@ const galleryItems = [
     {imgSrc: "gallery-5",title: "Programming universe Seniors",link: "b_programming_universe"},
     {imgSrc: "gallery-6",title: "Programming universe Junior",link: "b_programming_universe_junior"},
     {imgSrc: "gallery-7",title: "Web Development",link: "b_web"},
-    {imgSrc: "gallery-8",title: "Python Programming Language",link: "b_web"},
+    {imgSrc: "gallery-8",title: "Python Programming Language",link: "b_python"},
   ];
   
   // Function to create gallery item HTML
