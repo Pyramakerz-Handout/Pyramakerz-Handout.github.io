@@ -1,5 +1,5 @@
 var numAr = 8 ;
-var numEn = 12 ;
+var numEn = 13 ;
 
 
  // Function to create gallery item HTML
